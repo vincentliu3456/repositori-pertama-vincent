@@ -1,2 +1,4 @@
 -konsisten untuk bagi waktu untuk belajar coding
 -belajar css dan javascript
+-Lebih banyak latihan pada VS code dan buat projek-projek yang berkenaan
+-ingin jadi full stack developer
